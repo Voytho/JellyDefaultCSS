@@ -43,7 +43,7 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
 /*Square Cards and Portrait Cards*/
 
 #loginPage .squareCard {
-  width: 50% !important;
+  width: 10% !important;
   background: rgb(20, 20, 20) !important;
   transform: none !important;
 }
